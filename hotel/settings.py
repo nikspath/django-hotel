@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 ]
 
-CUSTOMEAPP=['customeadmin',]
+CUSTOMEAPP=['customeadmin','amenities',]
 
 INSTALLED_APPS += CUSTOMEAPP
 
